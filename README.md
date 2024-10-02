@@ -18,4 +18,5 @@ Clojure is a modern functional programming language that runs on the Java Virtua
 
 ## Exercises
 
-- [x] Hello world
+- [x] Hello World
+- [x] Luscians Luscious Lasagna
